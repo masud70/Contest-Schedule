@@ -1,0 +1,10 @@
+{
+    "name" : "Contest Schedule",
+    "version" : "1.0",
+    "description" : "This extention helps competitive programmers being updated with contests schedule of various online judges",
+    "manifest_version" : 2,
+    "browser_action" : {
+        "default_popup" : "index.html",
+        "default_icon" : "image/icon.png"
+    }
+}
